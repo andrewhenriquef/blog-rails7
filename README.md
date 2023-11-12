@@ -22,3 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Install ImageMagick and lib-vips
+
+
+https://rubyonrails.org/
+tutorial that im following -> 9:50min
